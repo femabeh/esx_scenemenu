@@ -1,0 +1,16 @@
+Locales['de'] = {
+    ['title'] = 'Szenenmenü',
+	['mainmenu_objects'] = 'Objekte',
+    ['mainmenu_speedzone'] = 'Geschwindigkeitszonen',
+    ['objectmenu_delete'] = 'Objekt Löschen',
+    ['speedzonemenu_radius'] = '* Radius',
+    ['speedzonemenu_speed'] = '* Geschwindigkeit',
+    ['speedzonemenu_create'] = 'Zone Erstellen',
+    ['speedzonemenu_delete'] = 'Zone Löschen',
+    ['speedzonemenu_create_no_radius'] = 'Du hast keinen Radius Ausgewählt!',
+    ['speedzonemenu_create_no_speed'] = 'Du hast keine Geschwindigkeit Ausgewählt!',
+    ['speedzonemessage_first'] = 'Die Polizei hat eine Geschwindigkeitsbegrenzung festgelegt für: ',
+    ['speedzonemessage_last'] = ' - Hier darf maximal gefahren werden: ',
+    ['speedzonemessagedelete_first'] = 'Die Geschwindigkeitsbegrenzung wurde entfernt bei: ',
+    ['speedzonemessagedelete_last'] = ' - Hier darf wieder Normal gefahren werden!',
+}
